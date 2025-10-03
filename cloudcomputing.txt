@@ -1,10 +1,8 @@
 my name is aimen
 aimen
 working with branch
-<<<<<<< HEAD
 creating conflict 
-=======
 i am a front end developer
 achaaaaaaaaa
 aimen
->>>>>>> master
+
